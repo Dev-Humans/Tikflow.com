@@ -6,7 +6,7 @@ const WavingBackgroundSection = () => {
       <div className="container relative z-10 px-4 md:px-6 h-full flex items-center justify-center">
         <div className="flex flex-col items-center space-y-12 text-center">
           <div className="space-y-6">
-            <div className="inline-block rounded-lg bg-green-100 px-4 py-2 text-sm dark:bg-green-800/30">
+            <div className="inline-block rounded-lg bg-green-100 px-4 py-2 text-sm ">
               Boost E-Commerce Sales 10X via TikTok
             </div>
             <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
